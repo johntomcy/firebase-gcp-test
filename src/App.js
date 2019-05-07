@@ -17,7 +17,7 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React and Firebase
+            Learn React and Firebase by Tomcy
           </a>
         </header>
       </div>
